@@ -621,22 +621,21 @@ journalctl -u headscale -f
 
 ---
 
-## Ressources utiles
+## 📢 Support et contributions
 
-- [Documentation Headscale](https://headscale.net/)
-- [GitHub Headscale](https://github.com/juanfont/headscale)
-- [GitHub Headscale-Admin](https://github.com/GoodiesHQ/headscale-admin)
-- [Documentation Tailscale](https://tailscale.com/kb/)
-- [Documentation Caddy](https://caddyserver.com/docs/)
+**Ce dépôt est un guide personnel partagé avec la communauté.**
+
+- ✅ N'hésitez pas à forker et adapter à vos besoins
+- ✅ Les améliorations et suggestions sont bienvenues via Pull Request
+- 📧 Pour des questions techniques sur Headscale, consultez les ressources officielles :
+  - [Documentation Headscale](https://headscale.net/)
+  - [GitHub Headscale](https://github.com/juanfont/headscale/issues)
+  - [Discord Headscale](https://discord.gg/c84AZQhmpx)
+
+**Note :** Ce guide a été créé avec l'aide de Claude AI par quelqu'un sans expérience en développement. Il peut contenir des erreurs ou des approximations. Les retours constructifs sont appréciés !
 
 ---
 
-## Licence
+## 📜 Licence
 
-Ce guide est fourni tel quel sous licence MIT. Headscale et les projets associés ont leurs propres licences.
-
----
-
-## Contribution
-
-N'hésitez pas à soumettre des issues ou des pull requests pour améliorer ce guide !
+Ce guide est fourni sous licence MIT. Headscale et les projets associés ont leurs propres licences.
